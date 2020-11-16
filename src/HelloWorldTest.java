@@ -11,4 +11,7 @@ class HelloWorldTest {
         fail();
     }
 
+    @Test
+    public void test() {}
+
 }
